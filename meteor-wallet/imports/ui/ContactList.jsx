@@ -1,6 +1,6 @@
 import React from "react";
 import {ContactsCollection} from "../api/ContactCollection";
-import {useTracker} from 'meteor/reor-data';
+import {useTracker} from 'meteor/react-meteor-data';
 
 
 export const ContactList = () => {
